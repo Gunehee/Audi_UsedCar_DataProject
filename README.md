@@ -1,8 +1,8 @@
 # Audi_UsedCar_DataProject
 
-# Audi Used Car Price Analysis & Prediction
+## Audi Used Car Price Analysis & Prediction
 
-**Author**: Josh  
+**Author**: GunHee(Joshua) Lee  
 **Date**: June 2025
 
 ---
